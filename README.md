@@ -1,7 +1,7 @@
 Network
 
-https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
-https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
+-https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
+-https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
 https://www.ceyrekmuhendis.com/internet-nedir-nasil-calisir/
 https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb
 https://www.youtube.com/watch?v=L4alPp-Tx2M
