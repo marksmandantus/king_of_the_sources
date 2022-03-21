@@ -1,130 +1,130 @@
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
--https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
-https://www.ceyrekmuhendis.com/internet-nedir-nasil-calisir/
-https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb
-https://www.youtube.com/watch?v=L4alPp-Tx2M
-https://www.youtube.com/watch?v=pDn2u65rQbQ
-https://www.youtube.com/watch?v=_njkTOzKKUY&list=PLlEN794VQ4ir8739Bw-yFEKhz0JTc0O9U
-https://esenbaharturkay.medium.com/devre-anahtarlama-ve-paket-anahtarlama-fda60601590b
-https://www.youtube.com/playlist?list=PLm-hnICeZgkmDfAkckS7PPURoNUG8ClfX
-https://www.udemy.com/course/ag-guvenligi-ccna-security-egitimi/?couponCode=9328E249055548AF6A70
-https://www.udemy.com/course/cicso-ccna-200-125-egitimi/?couponCode=37AC5A69F4EC7A3A2523
-https://www.mshowto.org/tor-the-onion-router-networku-nedir-nasil-calisir-neden-kullanilir.html
-https://tr.wikipedia.org/wiki/Baz_istasyonu
-https://www.ceyrekmuhendis.com/i2c-haberlesme-protokolu/
-https://www.youtube.com/watch?v=42u_2e6eNF4
-https://docplayer.biz.tr/431309-Turkce-ccna-egitim-notlari.html
-https://www.youtube.com/watch?v=e4vJCXInaqQ
-https://www.youtube.com/watch?v=gGTUHFX_ylQ
-https://www.youtube.com/watch?v=JAMVcqZKL3E
-https://www.youtube.com/playlist?list=PLXaBFPQgxYavJseF_HAXOeNH13OuHjI7s
-https://www.mehmetince.net/pci-dss-ile-payment-gatewayler-arasindaki-http-security-headers-tartismalari/
-https://www.youtube.com/watch?v=qiQR5rTSshw
-https://okankurtulus.com.tr/2020/08/07/dns-nedir-dns-sunucularina-yapilan-saldirilar-nelerdir/
-https://halilozel1903.medium.com/subnetting-nedir-cb8ca8a1cf5c
-https://dl.packetstormsecurity.net/papers/general/temel-network.pdf
-https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/osi-katmanlar%C4%B1
-https://www.youtube.com/watch?v=y54zRqJJ2wY&list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
-http://meslek.eba.gov.tr/upload/dk10/Ag_Sistemleri_ve_Anahtarlama_10_3.pdf
-https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
-https://www.youtube.com/watch?v=SyD2hvkdgoM
-https://www.youtube.com/watch?v=haBM0e-5UL0
-https://tools.ietf.org/html/
-https://www.lammle.com/
+- https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
+- https://www.ceyrekmuhendis.com/internet-nedir-nasil-calisir/
+- https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb
+- https://www.youtube.com/watch?v=L4alPp-Tx2M
+- https://www.youtube.com/watch?v=pDn2u65rQbQ
+- https://www.youtube.com/watch?v=_njkTOzKKUY&list=PLlEN794VQ4ir8739Bw-yFEKhz0JTc0O9U
+- https://esenbaharturkay.medium.com/devre-anahtarlama-ve-paket-anahtarlama-fda60601590b
+- https://www.youtube.com/playlist?list=PLm-hnICeZgkmDfAkckS7PPURoNUG8ClfX
+- https://www.udemy.com/course/ag-guvenligi-ccna-security-egitimi/?couponCode=9328E249055548AF6A70
+- https://www.udemy.com/course/cicso-ccna-200-125-egitimi/?couponCode=37AC5A69F4EC7A3A2523
+- https://www.mshowto.org/tor-the-onion-router-networku-nedir-nasil-calisir-neden-kullanilir.html
+- https://tr.wikipedia.org/wiki/Baz_istasyonu
+- https://www.ceyrekmuhendis.com/i2c-haberlesme-protokolu/
+- https://www.youtube.com/watch?v=42u_2e6eNF4
+- https://docplayer.biz.tr/431309-Turkce-ccna-egitim-notlari.html
+- https://www.youtube.com/watch?v=e4vJCXInaqQ
+- https://www.youtube.com/watch?v=gGTUHFX_ylQ
+- https://www.youtube.com/watch?v=JAMVcqZKL3E
+- https://www.youtube.com/playlist?list=PLXaBFPQgxYavJseF_HAXOeNH13OuHjI7s
+- https://www.mehmetince.net/pci-dss-ile-payment-gatewayler-arasindaki-http-security-headers-tartismalari/
+- https://www.youtube.com/watch?v=qiQR5rTSshw
+- https://okankurtulus.com.tr/2020/08/07/dns-nedir-dns-sunucularina-yapilan-saldirilar-nelerdir/
+- https://halilozel1903.medium.com/subnetting-nedir-cb8ca8a1cf5c
+- https://dl.packetstormsecurity.net/papers/general/temel-network.pdf
+- https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/osi-katmanlar%C4%B1
+- https://www.youtube.com/watch?v=y54zRqJJ2wY&list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
+- http://meslek.eba.gov.tr/upload/dk10/Ag_Sistemleri_ve_Anahtarlama_10_3.pdf
+- https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
+ -https://www.youtube.com/watch?v=SyD2hvkdgoM
+- https://www.youtube.com/watch?v=haBM0e-5UL0
+- https://tools.ietf.org/html/
+- https://www.lammle.com/
 
 Linux
 
-https://github.com/taylanbildik/Linux_Dersleri/
-https://egitim.acikkaynakfikirler.com/linux101-landing/
-https://linux-dersleri.github.io
-https://www.youtube.com/watch?v=cEhnQN1ZmDI&ab_channel=SametAkbal
-https://cmdchallenge.com/
-https://linuxjourney.com/
-https://overthewire.org/wargames/bandit/
-https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W
-https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1
-https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top
-https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY&ab_channel=BilgisayarKavramlari
-https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
-http://sedasaglik.com.tr/yazi/cronjobs-
-https://www.yusufsezer.com.tr/linux-dersleri/
-https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
-https://mega.nz/file/zAZhGAbB#vcPOkKpFWE5cAnznrJkLv63l_awGAJqoj79dM_OCmIE
-https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
-https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
-https://linux-dersleri.github.io/
-https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
-https://egitim.acikkaynakfikirler.com/linux101-landing/
-https://linux-dersleri.github.io/
-https://www.youtube.com/watch?v=cEhnQN1ZmDI&ab_channel=SametAkbal
-https://cmdchallenge.com/
-https://linuxjourney.com/
-https://overthewire.org/wargames/bandit/
-https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W
-https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1
-https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top
-https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY&ab_channel=BilgisayarKavramlari
-https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
-https://www.yusufsezer.com.tr/linux-dersleri/
-https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
-https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
-https://www.youtube.com/playlist?list=PLeKWVPCoT9e1tqsgPTQabtumX6E1XpAhz
-https://www.youtube.com/playlist?list=PLXaBFPQgxYavmJUblO66HkKvuV2lsnZZW
-https://www.youtube.com/playlist?list=PLPa55dyKM2F1f8XQDSy4GQg2y7ZMIap1i
-https://www.youtube.com/playlist?list=PL1RexjmoB3pgNmoSpXc7430AZRiWqT9Gx
-https://sourceforge.net/projects/linuxcommand/files/AWTLCL/21.10/AWTLCL-21.10.pdf/download
-http://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf
-https://gaissecurity.com/bilgi/linux-restricted-shell-atlatma-teknikleri/
-https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
-https://e-bergi.com/y/root-files/
-https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf
-https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
-https://www.reddit.com/r/linux/comments/b8tj21/systemd_vs_openrc_what_is_it_all_about/
-https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
-https://youtube.com/playlist?list=PLGWmuqrfJZRscAXSYLLQEfBCa2TidEUid
-https://demirten.gitbooks.io/linux-sistem-programlama/content/capabilities/
+- https://github.com/taylanbildik/Linux_Dersleri/
+- https://egitim.acikkaynakfikirler.com/linux101-landing/
+- https://linux-dersleri.github.io
+- https://www.youtube.com/watch?v=cEhnQN1ZmDI&ab_channel=SametAkbal
+- https://cmdchallenge.com/
+- https://linuxjourney.com/
+- https://overthewire.org/wargames/bandit/
+- https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W
+- https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1
+- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top
+- https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY&ab_channel=BilgisayarKavramlari
+- https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
+- http://sedasaglik.com.tr/yazi/cronjobs-
+- https://www.yusufsezer.com.tr/linux-dersleri/
+- https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
+- https://mega.nz/file/zAZhGAbB#vcPOkKpFWE5cAnznrJkLv63l_awGAJqoj79dM_OCmIE
+- https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
+- https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
+- https://linux-dersleri.github.io/
+- https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
+- https://egitim.acikkaynakfikirler.com/linux101-landing/
+- https://linux-dersleri.github.io/
+- https://www.youtube.com/watch?v=cEhnQN1ZmDI&ab_channel=SametAkbal
+- https://cmdchallenge.com/
+- https://linuxjourney.com/
+- https://overthewire.org/wargames/bandit/
+- https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W
+- https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1
+- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top
+- https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY&ab_channel=BilgisayarKavramlari
+- https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
+- https://www.yusufsezer.com.tr/linux-dersleri/
+- https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
+- https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
+- https://www.youtube.com/playlist?list=PLeKWVPCoT9e1tqsgPTQabtumX6E1XpAhz
+- https://www.youtube.com/playlist?list=PLXaBFPQgxYavmJUblO66HkKvuV2lsnZZW
+- https://www.youtube.com/playlist?list=PLPa55dyKM2F1f8XQDSy4GQg2y7ZMIap1i
+- https://www.youtube.com/playlist?list=PL1RexjmoB3pgNmoSpXc7430AZRiWqT9Gx
+- https://sourceforge.net/projects/linuxcommand/files/AWTLCL/21.10/AWTLCL-21.10.pdf/download
+- http://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf
+- https://gaissecurity.com/bilgi/linux-restricted-shell-atlatma-teknikleri/
+- https://www.slideshare.net/AhmetGrel1/temel-linux-kullanm-ve-komutlar
+- https://e-bergi.com/y/root-files/
+- https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf
+- https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
+- https://www.reddit.com/r/linux/comments/b8tj21/systemd_vs_openrc_what_is_it_all_about/
+- https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
+- https://youtube.com/playlist?list=PLGWmuqrfJZRscAXSYLLQEfBCa2TidEUid
+- https://demirten.gitbooks.io/linux-sistem-programlama/content/capabilities/
 
 PrivESC
 
-https://www.exploit-db.com/docs/turkish/42757-[turkish]-windows-and-linux-privilege-escalation.pdf
+- https://www.exploit-db.com/docs/turkish/42757-[turkish]-windows-and-linux-privilege-escalation.pdf
 
-Web Security
+Web Security 
 
-https://docplayer.biz.tr/311180-Web-uygulama-guvenligi-101-mehmet-ince-mehmet-ince-bga-com-tr.html
-https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
-https://www.youtube.com/watch?v=3AgDSw0I89A
-https://docs.google.com/document/d/1PHs7uRS1whLY9tgxH1lj-bnEVWtXPXpo45zWUlbknpU/edit
-https://www.youtube.com/watch?v=rHxX5LB1--4
-https://www.youtube.com/watch?v=1nJgupaUPEQ
-https://docplayer.biz.tr/311180-Web-uygulama-guvenligi-101-mehmet-ince-mehmet-ince-bga-com-tr.html
-https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
-https://www.youtube.com/watch?v=3AgDSw0I89A
-https://portswigger.net/web-security/all-labs
-https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
-https://github.com/mdisec/mdisec-twitch-yayinlari
-https://www.hacker101.com/sessions/pentest_owasp
-https://omercitak.com/dom-based-xssi-anlamak/
-https://omercitak.com/xss-zafiyeti-ile-oturum-calma-session-hijacking/
-https://youtu.be/HQklNh8961c
-https://docplayer.biz.tr/311180-Web-uygulama-guvenligi-101-mehmet-ince-mehmet-ince-bga-com-tr.html
-https://infosecwriteups.com/server-side-request-forgery-ssrf-8e0fa290f7e6
-https://sadicanustun.com.tr/posts/web-uygulamalarinda-race-condition-zafiyeti/
-https://www.veracode.com/security/race-condition
-https://hakantasan.com/index/makaleler/95/session-cookies-nedir-ve-nasil-calisir-session-nedir-session-nasil-calisir/
-https://avnikasikci.studio/idor-insecure-direct-object-reference-zafiyetleri/
-https://www.webguvenligi.org/asvs/OWASP_ASVS_TR_v2-0.pdf
-https://medium.com/@mmgoktas38/cross-site-scripting-xss-zafiyeti-nedir-fc149be926db
-https://www.youtube.com/watch?v=-BPnSQou8yw&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&index=7
-https://www.siberguvenlik.web.tr/index.php/2021/05/11/xxe-injection-nedir/
-http://index-of.es/Hack/No.Starch.The.Tangled.Web.Nov.2011.pdf
-https://code-elif.blogspot.com/2022/01/spring-security-5-ve-oauth-20-ile-web.html
-https://github.com/mdisec/topluluk-makale/tree/master/HTTP%20Headers%20and%20Cookies
-https://application.security/free/owasp-top-10
-https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
-https://hacklido.com/blog/183
-(Http Request ve Http Response nedir)[https://www.youtube.com/watch?v=PD8r9ISYgQo]
+- https://docplayer.biz.tr/311180-Web-uygulama-guvenligi-101-mehmet-ince-mehmet-ince-bga-com-tr.html
+- https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+- https://www.youtube.com/watch?v=3AgDSw0I89A
+- https://docs.google.com/document/d/1PHs7uRS1whLY9tgxH1lj-bnEVWtXPXpo45zWUlbknpU/edit
+- https://www.youtube.com/watch?v=rHxX5LB1--4
+- https://www.youtube.com/watch?v=1nJgupaUPEQ
+- https://docplayer.biz.tr/311180-Web-uygulama-guvenligi-101-mehmet-ince-mehmet-ince-bga-com-tr.html
+- https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+- https://www.youtube.com/watch?v=3AgDSw0I89A
+- https://portswigger.net/web-security/all-labs
+- https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+- https://github.com/mdisec/mdisec-twitch-yayinlari
+- https://www.hacker101.com/sessions/pentest_owasp
+- https://omercitak.com/dom-based-xssi-anlamak/
+- https://omercitak.com/xss-zafiyeti-ile-oturum-calma-session-hijacking/
+- https://youtu.be/HQklNh8961c
+- https://docplayer.biz.tr/311180-Web-uygulama-guvenligi-101-mehmet-ince-mehmet-ince-bga-com-tr.html
+- https://infosecwriteups.com/server-side-request-forgery-ssrf-8e0fa290f7e6
+- https://sadicanustun.com.tr/posts/web-uygulamalarinda-race-condition-zafiyeti/
+- https://www.veracode.com/security/race-condition
+- https://hakantasan.com/index/makaleler/95/session-cookies-nedir-ve-nasil-calisir-session-nedir-session-nasil-calisir/
+- https://avnikasikci.studio/idor-insecure-direct-object-reference-zafiyetleri/
+- https://www.webguvenligi.org/asvs/OWASP_ASVS_TR_v2-0.pdf
+- https://medium.com/@mmgoktas38/cross-site-scripting-xss-zafiyeti-nedir-fc149be926db
+- https://www.youtube.com/watch?v=-BPnSQou8yw&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&index=7
+- https://www.siberguvenlik.web.tr/index.php/2021/05/11/xxe-injection-nedir/
+- http://index-of.es/Hack/No.Starch.The.Tangled.Web.Nov.2011.pdf
+- https://code-elif.blogspot.com/2022/01/spring-security-5-ve-oauth-20-ile-web.html
+- https://github.com/mdisec/topluluk-makale/tree/master/HTTP%20Headers%20and%20Cookies
+- https://application.security/free/owasp-top-10
+- https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+- https://hacklido.com/blog/183
+- (Http Request ve Http Response nedir)[https://www.youtube.com/watch?v=PD8r9ISYgQo]
 
 Malware Analysis and Coding
 
