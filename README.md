@@ -1,1 +1,1 @@
-# king_of_the_sources
+https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
