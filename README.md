@@ -129,224 +129,224 @@ Web Security
 Malware Analysis and Coding
 
 Malware Coding Roadmap
-https://tryhackme.com/room/rpmetasploit
-https://techsupportwhale.com/wp-content/uploads/2020/05/Types-of-Malware.pdf
-https://marsisinovasyon.com/en-kapsamli-ansys-statik-analiz-firma/
-https://www.turkhackteam.org/konular/temel-statik-malware-analiz-c-reverse-shell.1967601/
-https://umuttosun.com/malware-analizi/
-https://academy.binance.com/tr/articles/what-is-a-digital-signature
-https://cnsatuva.github.io/files/Intro_Reverse_Malware_Analysis.pdf
-https://www.sentinelone.com/labs/top-15-essential-malware-analysis-tools/
-https://tr.secnews.gr/101781/mousejack-sald%C4%B1r%C4%B1s%C4%B1/
-https://www.crowe.com/cybersecurity-watch/wireless-peripheral-hijacking-mousejack-attacks-explained-dgs
-https://www.udemy.com/share/105Jps3@5IcOMql36YhdTgEq_nLvCUIr2LPQjsu6COSFt3MGbUXtgxCOg-ryjbJwOZTne1PtdQ==/
-https://dergidir.com/dijital-imza-nedir/
-https://gaissecurity.com/bilgi/zararli-yazilim-analiz-teknikleri/
-https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/
-https://osmanmarangoz.wordpress.com/2009/06/14/soket-programlamasocket-programming/
-https://kerteriz.net/python-socket-programlama-nedir/
-https://www.howtogeek.com/196672/windows-memory-dumps-what-exactly-are-they-for/
-https://helpdeskgeek.com/windows-10/how-to-analyze-memory-dump-files-dmp-in-windows-10/
-https://www.squiddylab.com/emotet-zararli-yaziliminin-teknik-analizi/
-https://securityliterate.com/malware-analysis-in-5-minutes-deobfuscating-powershell-scripts/
-https://threatpost.com/powershell-payload-analysis-malware/165188/
-https://www.crowdstrike.com/cybersecurity-101/malware/malware-analysis/
-http://dlupdate.quickheal.com/documents/technical_papers/introduction_to_malware_and_malware_analysis.pdf
-https://cdn.ttgtmedia.com/rms/pdf/bookshelf_malware_analysis_techniques_excerpt.pdf
-https://www.winitor.com/pdf/Malware-Analysis-Fundamentals-Files-Tools.pdf
-https://zeltser.com/media/docs/intro-to-malware-analysis.pdf
-http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf
-https://tryhackme.com/room/vulnnetinternal
-https://tryhackme.com/room/malmalintroductory
-https://www.pinvoke.net/default.aspx/kernel32/DLLs.html
-https://umuttosun.com/portable-executablepe-file-format-i/
-https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/pe-file-header-parser-in-c++
-https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/#more-120
-https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/#more-194
-https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/#more-696
-https://pentest.blog/art-of-anti-detection-4-self-defense/#more-1631
-https://pentest.blog/introducing-new-packing-method-first-reflective-pe-packer/#more-1141
-https://www.youtube.com/playlist?list=PLDpFwQfbVxIw_rysNCHPeGmh6wIUnhjrt
-https://www.ired.team/miscellaneous-reversing-forensics/aes-encryption-example-using-cryptopp-.lib-in-visual-studio-c++
-https://fatihsensoy.com/Process-Injection-Teknikleri/
-http://www.tolgasezer.com.tr/2015/07/tut-crypter-binder-packer-nedir.html
-https://www.priviasecurity.com/dll-injection/
-https://github.com/m0n0ph1/Process-Hollowing
-https://www.youtube.com/watch?v=v4OydHD-W7Q
-https://cuckoosandbox.org/
+
+- https://tryhackme.com/room/rpmetasploit
+- https://techsupportwhale.com/wp-content/uploads/2020/05/Types-of-Malware.pdf
+- https://marsisinovasyon.com/en-kapsamli-ansys-statik-analiz-firma/
+- https://www.turkhackteam.org/konular/temel-statik-malware-analiz-c-reverse-shell.1967601/
+- https://umuttosun.com/malware-analizi/
+- https://academy.binance.com/tr/articles/what-is-a-digital-signature
+- https://cnsatuva.github.io/files/Intro_Reverse_Malware_Analysis.pdf
+- https://www.sentinelone.com/labs/top-15-essential-malware-analysis-tools/
+- https://tr.secnews.gr/101781/mousejack-sald%C4%B1r%C4%B1s%C4%B1/
+- https://www.crowe.com/cybersecurity-watch/wireless-peripheral-hijacking-mousejack-attacks-explained-dgs
+- https://www.udemy.com/share/105Jps3@5IcOMql36YhdTgEq_nLvCUIr2LPQjsu6COSFt3MGbUXtgxCOg-ryjbJwOZTne1PtdQ==/
+- https://dergidir.com/dijital-imza-nedir/
+- https://gaissecurity.com/bilgi/zararli-yazilim-analiz-teknikleri/
+- https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/
+- https://osmanmarangoz.wordpress.com/2009/06/14/soket-programlamasocket-programming/
+- https://kerteriz.net/python-socket-programlama-nedir/
+- https://www.howtogeek.com/196672/windows-memory-dumps-what-exactly-are-they-for/
+- https://helpdeskgeek.com/windows-10/how-to-analyze-memory-dump-files-dmp-in-windows-10/
+- https://www.squiddylab.com/emotet-zararli-yaziliminin-teknik-analizi/
+- https://securityliterate.com/malware-analysis-in-5-minutes-deobfuscating-powershell-scripts/
+- https://threatpost.com/powershell-payload-analysis-malware/165188/
+- https://www.crowdstrike.com/cybersecurity-101/malware/malware-analysis/
+- http://dlupdate.quickheal.com/documents/technical_papers/introduction_to_malware_and_malware_analysis.pdf
+- https://cdn.ttgtmedia.com/rms/pdf/bookshelf_malware_analysis_techniques_excerpt.pdf
+- https://www.winitor.com/pdf/Malware-Analysis-Fundamentals-Files-Tools.pdf
+- https://zeltser.com/media/docs/intro-to-malware-analysis.pdf
+- http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf
+- https://tryhackme.com/room/vulnnetinternal
+- https://tryhackme.com/room/malmalintroductory
+- https://www.pinvoke.net/default.aspx/kernel32/DLLs.html
+- https://umuttosun.com/portable-executablepe-file-format-i/
+- https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/pe-file-header-parser-in-c++
+- https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/#more-120
+- https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/#more-194
+- https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/#more-696
+- https://pentest.blog/art-of-anti-detection-4-self-defense/#more-1631
+- https://pentest.blog/introducing-new-packing-method-first-reflective-pe-packer/#more-1141
+- https://www.youtube.com/playlist?list=PLDpFwQfbVxIw_rysNCHPeGmh6wIUnhjrt
+- https://www.ired.team/miscellaneous-reversing-forensics/aes-encryption-example-using-cryptopp-.lib-in-visual-studio-c++
+- https://fatihsensoy.com/Process-Injection-Teknikleri/
+- http://www.tolgasezer.com.tr/2015/07/tut-crypter-binder-packer-nedir.html
+- https://www.priviasecurity.com/dll-injection/
+- https://github.com/m0n0ph1/Process-Hollowing
+- https://www.youtube.com/watch?v=v4OydHD-W7Q
+- https://cuckoosandbox.org/
 
 Elektronik
 
-https://www.youtube.com/watch?v=wMfkpeOLWD8&t=469s
-https://www.youtube.com/watch?v=bEr9SIVno9c
-https://www.udemy.com/course/elektronik-temellerine-giris-tasarim-ve-uygulamalar-2020/
+- https://www.youtube.com/watch?v=wMfkpeOLWD8&t=469s
+- https://www.youtube.com/watch?v=bEr9SIVno9c
+- https://www.udemy.com/course/elektronik-temellerine-giris-tasarim-ve-uygulamalar-2020/
 
 Algoritma
 
-https://www.tasarimkodlama.com/kategori/algoritma/
-https://www.tasarimkodlama.com/kategori/algoritma/
-https://www.youtube.com/watch?v=Q2DoA4HID5A&list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ
+- https://www.tasarimkodlama.com/kategori/algoritma/
+- https://www.tasarimkodlama.com/kategori/algoritma/
+- https://www.youtube.com/watch?v=Q2DoA4HID5A&list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ
 
 Genel dev
 
-https://github.com/fatihacet/turkcekaynaklar-com
-https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
-https://www.codingame.com/ide/puzzle/onboarding
-https://github.com/aycanogut/front-end-resources
-https://www.linkedin.com/posts/rogerfavelron_think-different-a-different-roadmap-to-activity-6870708283796258816-AyDf
-https://roadmap.sh/
-https://goalkicker.com/
-https://github.com/melihthedev/books-1
-https://www.w3schools.com/
-https://www.savol-javob.com/tr/yeni-ba%C5%9Flayanlar-i%C3%A7in-bir-web-programlama-haritas%C4%B1/
-https://www.youtube.com/watch?v=y745R3Lv9WI&t=24027s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi
-https://www.freecodecamp.org/learn
-https://tr.khanacademy.org/computing/computer-programming
-https://learnxinyminutes.com/
+- https://github.com/fatihacet/turkcekaynaklar-com
+- https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
+- https://www.codingame.com/ide/puzzle/onboarding
+- https://github.com/aycanogut/front-end-resources
+- https://www.linkedin.com/posts/rogerfavelron_think-different-a-different-roadmap-to-activity-6870708283796258816-AyDf
+- https://roadmap.sh/
+- https://goalkicker.com/
+- https://github.com/melihthedev/books-1
+- https://www.w3schools.com/
+- https://www.savol-javob.com/tr/yeni-ba%C5%9Flayanlar-i%C3%A7in-bir-web-programlama-haritas%C4%B1/
+- https://www.youtube.com/watch?v=y745R3Lv9WI&t=24027s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi
+- https://www.freecodecamp.org/learn
+- https://tr.khanacademy.org/computing/computer-programming
+- https://learnxinyminutes.com/
 
 Python
 
-https://automatetheboringstuff.com/
-https://python-istihza.yazbel.com/
-https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
-https://www.btkakademi.gov.tr/portal/course/player/deliver/s-f-rdan-ileri-seviye-python-programlama-5877
-https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
-https://suleymanogrekci.wordpress.com/python-dersleri/
-https://www.google.com/amp/s/kerteriz.net/python-socket-programlama-nedir/amp/
-https://s5.dosya.tc/server5/nh5xw5/rogramming-For-Total-Beginners-No-Starch-Press-2019.pdf.html
+- https://automatetheboringstuff.com/
+- https://python-istihza.yazbel.com/
+- https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+- https://www.btkakademi.gov.tr/portal/course/player/deliver/s-f-rdan-ileri-seviye-python-programlama-5877
+- https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+- https://suleymanogrekci.wordpress.com/python-dersleri/
+- https://www.google.com/amp/s/kerteriz.net/python-socket-programlama-nedir/amp/
+- https://s5.dosya.tc/server5/nh5xw5/rogramming-For-Total-Beginners-No-Starch-Press-2019.pdf.html
 
 go
 
-https://youtu.be/goC2z7n9fq4
-https://www.tasarimkodlama.com/go-programlama/go-programlama-dili-dersleri/
-https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa
-https://mega.nz/file/KdYhRIyQ#k9NWOo8HZGcT6GOF6RzbqZ2_71sWh6ehPJIR22Vt6mE
-https://www.tutorialspoint.com/go/index.htm
-https://gobyexample.com/
-https://www.guru99.com/google-go-tutorial.html
-https://www.javatpoint.com/go-tutorial
-https://www.w3schools.com/go/index.php
-https://www.cosmiclearn.com/go/index.php
-https://www.golangprograms.com/go-language.html
-https://edu.anarcho-copy.org/T%C3%BCrk%C3%A7e%20-%20Turkish/Go%20T%C3%BCrk%C3%A7e%20kaynak_.pdf*/
-https://github.com/mdisec/golang-for-hackers-turkish-edition
-https://www.youtube.com/watch?v=jR683fqYVOo
-https://go.kaanksc.com/
+- https://youtu.be/goC2z7n9fq4
+- https://www.tasarimkodlama.com/go-programlama/go-programlama-dili-dersleri/
+- https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa
+- https://mega.nz/file/KdYhRIyQ#k9NWOo8HZGcT6GOF6RzbqZ2_71sWh6ehPJIR22Vt6mE
+- https://www.tutorialspoint.com/go/index.htm
+- https://gobyexample.com/
+- https://www.guru99.com/google-go-tutorial.html
+- https://www.javatpoint.com/go-tutorial
+- https://www.w3schools.com/go/index.php
+- https://www.cosmiclearn.com/go/index.php
+- https://www.golangprograms.com/go-language.html
+- https://edu.anarcho-copy.org/T%C3%BCrk%C3%A7e%20-%20Turkish/Go%20T%C3%BCrk%C3%A7e%20kaynak_.pdf*/
+- https://github.com/mdisec/golang-for-hackers-turkish-edition
+- https://www.youtube.com/watch?v=jR683fqYVOo
+- https://go.kaanksc.com/
 
 C
 
-https://mega.nz/file/PEQ1XAjY#PsETDPrZ_h7IuvwxhM12DLyVR0klfyfSMO27eeGCJX0
-https://www.youtube.com/watch?v=w3_e9vZj7D8&t=3076s
-https://www.youtube.com/watch?v=443UNeGrFoM&t=4177s
+- https://mega.nz/file/PEQ1XAjY#PsETDPrZ_h7IuvwxhM12DLyVR0klfyfSMO27eeGCJX0
+- https://www.youtube.com/watch?v=w3_e9vZj7D8&t=3076s
+- https://www.youtube.com/watch?v=443UNeGrFoM&t=4177s
 
 Sql
 
-https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249
-https://www.hosting.com.tr/bilgi-bankasi/sql-nedir/
-https://tr.khanacademy.org/computing/computer-programming/sql
+- https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249
+- https://www.hosting.com.tr/bilgi-bankasi/sql-nedir/
+- https://tr.khanacademy.org/computing/computer-programming/sql
 
 Bash scripting
 
-https://www.youtube.com/playlist?list=PLPa55dyKM2F0Or4a1E3ir1ZUZkjM1bubZ
-https://devhints.io/bash
+- https://www.youtube.com/playlist?list=PLPa55dyKM2F0Or4a1E3ir1ZUZkjM1bubZ
+- https://devhints.io/bash
 
 
 IOT
 
-https://www.youtube.com/playlist?list=PL1RexjmoB3phyupWC1bAeiBK0PY90ebwA
+- https://www.youtube.com/playlist?list=PL1RexjmoB3phyupWC1bAeiBK0PY90ebwA
 
 
 Cloud
 
-https://aws.amazon.com/tr/what-is-cloud-computing/
-https://aws.amazon.com/tr/getting-started/fundamentals-core-concepts/?e=gs2020&p=gsrc
-https://ayberk.ninja/aws-enumeration
+- https://aws.amazon.com/tr/what-is-cloud-computing/
+- https://aws.amazon.com/tr/getting-started/fundamentals-core-concepts/?e=gs2020&p=gsrc
+- https://ayberk.ninja/aws-enumeration
 
 Veritabanlari
 
-https://immibbilisim.com/moduller/3-%20Veritaban%C4%B1nda%20Sorgular.pdf
-http://auzefkitap.istanbul.edu.tr/kitap/kok/yonetimbilisimsistemleriau232.pdf
-https://www.oracle.com/tr/database/what-is-database/
+- https://immibbilisim.com/moduller/3-%20Veritaban%C4%B1nda%20Sorgular.pdf
+- http://auzefkitap.istanbul.edu.tr/kitap/kok/yonetimbilisimsistemleriau232.pdf
+- https://www.oracle.com/tr/database/what-is-database/
 
 Genel güzel siber güvenlik PDFleri
 
-https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
-https://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
-https://www.siberguvenlik.online/2021/12/04/siber-guvenlik-terimleri-sozlugu-2/
-https://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
-https://www.sasad.org.tr/uploaded/Siber-Guvenlik-ve-Savunma-Standartlar-ve-Uygulamalar-Siber-Guvenlik-Cilt-3.pdf
-https://www.prismacsi.com/1-siber-guvenlik-temelleri/
-https://www.mehmetince.net/category/cyber-security/penetration-test/
-https://www.btkakademi.gov.tr/portal/course/player/deliver/siber-guvenlik-temelleri-egitim-paketi-11961
-https://drive.google.com/drive/folders/1dOcAgLfhfBc0eNtQmgtbWDyCtsg5gIiK
+- https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
+- https://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
+- https://www.siberguvenlik.online/2021/12/04/siber-guvenlik-terimleri-sozlugu-2/
+- https://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
+- https://www.sasad.org.tr/uploaded/Siber-Guvenlik-ve-Savunma-Standartlar-ve-Uygulamalar-Siber-Guvenlik-Cilt-3.pdf
+- https://www.prismacsi.com/1-siber-guvenlik-temelleri/
+- https://www.mehmetince.net/category/cyber-security/penetration-test/
+- https://www.btkakademi.gov.tr/portal/course/player/deliver/siber-guvenlik-temelleri-egitim-paketi-11961
+- https://drive.google.com/drive/folders/1dOcAgLfhfBc0eNtQmgtbWDyCtsg5gIiK
 
 
 Bolca pdf, makale bulunduran kendiniz bulabileceginiz siteler ve arsivler
 
-https://siberataksavunma.com/
-https://flaviocopes.com/page/list-subscribed/?ref=python-book
-https://docplayer.biz.tr/search/?q=linux+
-https://www.corelan.be/index.php/articles/
-https://doc.lagout.org/
-https://disk.yandex.com.tr/d/eOOc3oB6FyNlqw
-https://drive.google.com/drive/folders/12E5wVhmtSNkkFXsRyH2bX3wikYmGBRDE?usp=sharing
-https://mega.nz/folder/7E4jFYTb#AWm4et8AH8XfFg0GeEnjQA
-https://github.com/tanc7/hacking-books
-http://turkcekaynaklar.com/
+- https://siberataksavunma.com/
+- https://flaviocopes.com/page/list-subscribed/?ref=python-book
+- https://docplayer.biz.tr/search/?q=linux+
+- https://www.corelan.be/index.php/articles/
+- https://doc.lagout.org/
+- https://disk.yandex.com.tr/d/eOOc3oB6FyNlqw
+- https://drive.google.com/drive/folders/12E5wVhmtSNkkFXsRyH2bX3wikYmGBRDE?usp=sharing
+- https://mega.nz/folder/7E4jFYTb#AWm4et8AH8XfFg0GeEnjQA
+- https://github.com/tanc7/hacking-books
+- http://turkcekaynaklar.com/
 
 Fiziksel saldirilar ve fiziksel siber guvenlik
 
 
-https://nuriacar.com/cevizlab/2020/10/16/badusb.html
-https://www.sans.org/white-papers/37120/
-http://www.aljazeera.com.tr/al-jazeera-ozel/siber-dunyanin-kiyamet-silahi-bad-usb
-https://doc.lagout.org/security/Charles.C.Thomas-Document.Security.Protecting.Physical.and.Electronic.Content.2007.RETAiL.EBook.pdf
-https://www.osti.gov/servlets/purl/1427000
-https://scadahacker.com/library/Documents/White_Papers/Tripwire%20-%20When%20Cyber%20Attacks%20Get%20Physical.pdf
-https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=923409
-https://fengweiz.github.io/paper/badusbc-woot21.pdf
-https://sepio.systems/wp-content/uploads/2020/08/BadUSB-Case-Study-new.pdf
-https://res.mdpi.com/d_attachment/electronics/electronics-08-01322/article_deploy/electronics-08-01322-v2.pdf
+- https://nuriacar.com/cevizlab/2020/10/16/badusb.html
+- https://www.sans.org/white-papers/37120/
+- http://www.aljazeera.com.tr/al-jazeera-ozel/siber-dunyanin-kiyamet-silahi-bad-usb
+- https://doc.lagout.org/security/Charles.C.Thomas-Document.Security.Protecting.Physical.and.Electronic.Content.2007.RETAiL.EBook.pdf
+- https://www.osti.gov/servlets/purl/1427000
+- https://scadahacker.com/library/Documents/White_Papers/Tripwire%20-%20When%20Cyber%20Attacks%20Get%20Physical.pdf
+- https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=923409
+- https://fengweiz.github.io/paper/badusbc-woot21.pdf
+- https://sepio.systems/wp-content/uploads/2020/08/BadUSB-Case-Study-new.pdf
+- https://res.mdpi.com/d_attachment/electronics/electronics-08-01322/article_deploy/electronics-08-01322-v2.pdf
 
 
 Exploit Dev
 
-
-https://dayzerosec.com/blog/2021/02/02/getting-started.html
-https://exploit.education/
-https://opensecuritytraining.info/Exploits1.html
-https://exploit.education/phoenix/
-https://ropemporium.com/index.html
-https://www.youtube.com/watch?v=8Dcj19KGKWM
-https://www.youtube.com/watch?v=zaQVNM3or7k
-https://www.signalsec.com/exploit-gelistirme-egitimi.php
-https://gurelahmet.com/stack-tabanl%c4%b1-buffer-overflow-zafiyeti-pcman-ftp-server-2-0-7/
-https://www.fuzzysecurity.com/index.html
-https://github.com/wtsxDev/Exploit-Development
-https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/
-https://www.offensive-security.com/awe/EXP401_syllabus.pdf
-https://tryhackme.com/room/intropocscripting
-https://netsec.ws/?p=262
-https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/
-https://github.com/tanc7/hacking-books/blob/master/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers%2C%20Forensic%20Analysts%2C%20Penetration%20Testers%20and%20Security%20Engineers.pdf
-https://tryhackme.com/room/introtopwntools
-https://tryhackme.com/room/introtox8664
-https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst
-https://tryhackme.com/room/postexploit
-https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/
-https://www.reddit.com/r/ExploitDev/comments/7ywp7a/exploit_development_books/
-https://github.com/midnightslacker/exploit_training
-https://0x00sec.org/c/exploit-development/53
-https://dayzerosec.com/blog/2021/02/02/getting-started.html
-https://www.fuzzysecurity.com/tutorials/expDev/1.html
-https://github.com/rosehgal/BinExp
+- https://dayzerosec.com/blog/2021/02/02/getting-started.html
+- https://exploit.education/
+- https://opensecuritytraining.info/Exploits1.html
+- https://exploit.education/phoenix/
+- https://ropemporium.com/index.html
+- https://www.youtube.com/watch?v=8Dcj19KGKWM
+- https://www.youtube.com/watch?v=zaQVNM3or7k
+- https://www.signalsec.com/exploit-gelistirme-egitimi.php
+- https://gurelahmet.com/stack-tabanl%c4%b1-buffer-overflow-zafiyeti-pcman-ftp-server-2-0-7/
+- https://www.fuzzysecurity.com/index.html
+- https://github.com/wtsxDev/Exploit-Development
+- https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/
+- https://www.offensive-security.com/awe/EXP401_syllabus.pdf
+- https://tryhackme.com/room/intropocscripting
+- https://netsec.ws/?p=262
+- https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/
+- https://github.com/tanc7/hacking-books/blob/master/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers%2C%20Forensic%20Analysts%2C%20Penetration%20Testers%20and%20Security%20Engineers.pdf
+- https://tryhackme.com/room/introtopwntools
+- https://tryhackme.com/room/introtox8664
+- https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst
+- https://tryhackme.com/room/postexploit
+- https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/
+- https://www.reddit.com/r/ExploitDev/comments/7ywp7a/exploit_development_books/
+- https://github.com/midnightslacker/exploit_training
+- https://0x00sec.org/c/exploit-development/53
+- https://dayzerosec.com/blog/2021/02/02/getting-started.html
+- https://www.fuzzysecurity.com/tutorials/expDev/1.html
+- https://github.com/rosehgal/BinExp
 
 Bug Bounty
 
 
-https://github.com/tomnomnom
-https://github.com/hahwul/dalfox
-https://github.com/KingOfBugbounty/KingOfBugBountyTips
+- https://github.com/tomnomnom
+- https://github.com/hahwul/dalfox
+- https://github.com/KingOfBugbounty/KingOfBugBountyTips
 
 
 
