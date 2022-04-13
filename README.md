@@ -1,5 +1,7 @@
 https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 
+https://ryanstutorials.net/
+
 https://www.fullofenglish.com/mesleki-ingilizce-bilisim/ingilizce-yazilim-terimleri/
 
 Network
