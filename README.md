@@ -10,6 +10,8 @@ https://www.dcode.fr/rsa-cipher
 
 https://morsecode.world/international/decoder/audio-decoder-expert.html
 
+https://www.dcode.fr/monoalphabetic-substitution
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
