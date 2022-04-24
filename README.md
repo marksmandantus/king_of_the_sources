@@ -6,6 +6,8 @@ https://www.fullofenglish.com/mesleki-ingilizce-bilisim/ingilizce-yazilim-teriml
 
 http://hacking-printers.net/wiki/index.php/Printer_Security_Testing_Cheat_Sheet
 
+https://www.dcode.fr/rsa-cipher
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
