@@ -4,6 +4,8 @@ https://ryanstutorials.net/
 
 https://www.fullofenglish.com/mesleki-ingilizce-bilisim/ingilizce-yazilim-terimleri/
 
+http://hacking-printers.net/wiki/index.php/Printer_Security_Testing_Cheat_Sheet
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
