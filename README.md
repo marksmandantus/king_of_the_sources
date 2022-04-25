@@ -14,6 +14,8 @@ https://morsecode.world/international/decoder/audio-decoder-expert.html
 
 https://www.dcode.fr/monoalphabetic-substitution
 
+https://www.arin.net/ mail ip finder
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
