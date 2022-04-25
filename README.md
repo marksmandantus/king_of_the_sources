@@ -18,6 +18,8 @@ https://www.arin.net/ IP adresinin hangi ISS'ye bağlı oldugunu gösterir.
 
 https://mediatemple.net/community/products/all/204643950/understanding-an-email-header  mail ip finder
 
+https://dnsdumpster.com/ bilgi toplama // sublist3r benzeri araç
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
