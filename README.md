@@ -14,8 +14,9 @@ https://morsecode.world/international/decoder/audio-decoder-expert.html
 
 https://www.dcode.fr/monoalphabetic-substitution
 
-https://www.arin.net/ mail ip finder
-https://mediatemple.net/community/products/all/204643950/understanding-an-email-header
+https://www.arin.net/ IP adresinin hangi ISS'ye bağlı oldugunu gösterir.
+
+https://mediatemple.net/community/products/all/204643950/understanding-an-email-header  mail ip finder
 
 Network
 
