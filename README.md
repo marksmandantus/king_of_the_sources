@@ -20,6 +20,8 @@ https://mediatemple.net/community/products/all/204643950/understanding-an-email-
 
 https://dnsdumpster.com/ bilgi toplama // sublist3r benzeri araç
 
+https://www.expandurl.net/ kısaltılmış url aç.
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
