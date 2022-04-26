@@ -22,6 +22,8 @@ https://dnsdumpster.com/ bilgi toplama // sublist3r benzeri araç
 
 https://www.expandurl.net/ kısaltılmış url aç.
 
+https://www.hybrid-analysis.com/ dosya analiz
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
