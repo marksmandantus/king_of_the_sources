@@ -26,6 +26,8 @@ https://www.hybrid-analysis.com/ dosya analiz
 
 https://www.boxentriq.com/code-breaking/cipher-identifier cipher identifier
 
+https://www.wappalyzer.com/ google dorking
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
