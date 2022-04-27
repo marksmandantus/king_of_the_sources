@@ -28,6 +28,8 @@ https://www.boxentriq.com/code-breaking/cipher-identifier cipher identifier
 
 https://www.wappalyzer.com/ google dorking //web sitesinin hangi araçları kullandıgı vs
 
+https://archive.org/web/ sitelerin geçmiş halleri
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
