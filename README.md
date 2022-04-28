@@ -30,6 +30,8 @@ https://www.wappalyzer.com/ google dorking //web sitesinin hangi araçları kull
 
 https://archive.org/web/ sitelerin geçmiş halleri
 
+https://dnsdumpster.com/
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
