@@ -41,6 +41,7 @@ https://crackstation.net/
 https://xor.pw/#
 
 https://mothereff.in/bacon
+
 Network
 
 - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
