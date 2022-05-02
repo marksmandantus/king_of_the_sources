@@ -1,4 +1,15 @@
-//<script src="https://tryhackme.com/badge/224789"></script>
+CTF 
+
+https://www.quipqiup.com/
+https://mothereff.in/bacon
+https://xor.pw/#
+https://crackstation.net/
+https://www.dcode.fr/rsa-cipher
+https://www.dcode.fr/monoalphabetic-substitution
+https://www.boxentriq.com/code-breaking/cipher-identifier cipher identifier
+https://morsecode.world/international/decoder/audio-decoder-expert.html
+https://aperisolve.fr/
+https://www.imagemagick.org/script/convert.php
 
 https://0xrick.github.io/lists/stego/
 
@@ -10,12 +21,6 @@ https://www.fullofenglish.com/mesleki-ingilizce-bilisim/ingilizce-yazilim-teriml
 
 http://hacking-printers.net/wiki/index.php/Printer_Security_Testing_Cheat_Sheet
 
-https://www.dcode.fr/rsa-cipher
-
-https://morsecode.world/international/decoder/audio-decoder-expert.html
-
-https://www.dcode.fr/monoalphabetic-substitution
-
 https://www.arin.net/ IP adresinin hangi ISS'ye bağlı oldugunu gösterir.
 
 https://mediatemple.net/community/products/all/204643950/understanding-an-email-header  mail ip finder
@@ -26,8 +31,6 @@ https://www.expandurl.net/ kısaltılmış url aç.
 
 https://www.hybrid-analysis.com/ dosya analiz
 
-https://www.boxentriq.com/code-breaking/cipher-identifier cipher identifier
-
 https://www.wappalyzer.com/ google dorking //web sitesinin hangi araçları kullandıgı vs
 
 https://archive.org/web/ sitelerin geçmiş halleri
@@ -36,11 +39,7 @@ https://dnsdumpster.com/
 
 https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/
 
-https://crackstation.net/
 
-https://xor.pw/#
-
-https://mothereff.in/bacon
 
 Network
 
