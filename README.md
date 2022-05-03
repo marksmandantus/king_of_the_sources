@@ -10,6 +10,7 @@ https://www.boxentriq.com/code-breaking/cipher-identifier cipher identifier
 https://morsecode.world/international/decoder/audio-decoder-expert.html
 https://aperisolve.fr/
 https://www.imagemagick.org/script/convert.php
+https://www.tunnelsup.com/ hash identifier
 
 https://0xrick.github.io/lists/stego/
 
