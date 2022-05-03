@@ -35,6 +35,8 @@ https://www.wappalyzer.com/ google dorking //web sitesinin hangi araçları kull
 
 https://archive.org/web/ sitelerin geçmiş halleri
 
+https://crt.sh/ sertifika kontrol
+
 https://dnsdumpster.com/
 
 https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/
