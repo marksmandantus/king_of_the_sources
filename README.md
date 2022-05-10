@@ -1,5 +1,7 @@
 CTF 
 
+cat /etc/passwd | cut -d ":" -f 1 PrivEsc
+
 https://www.quipqiup.com/
 https://mothereff.in/bacon
 https://xor.pw/#
