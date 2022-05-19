@@ -3,7 +3,12 @@ CTF
 cat /etc/passwd | cut -d ":" -f 1 PrivEsc
 
 curl https://static-labs.tryhackme.cloud/sites/favicon/images/favicon.ico | md5sum favicon framwork md5 format
+
 https://wiki.owasp.org/index.php/OWASP_favicon_database
+
+http://10.10.27.191/sitemap.xml sitemap.xml ekle sonuna
+
+
 
 https://www.quipqiup.com/
 https://mothereff.in/bacon
