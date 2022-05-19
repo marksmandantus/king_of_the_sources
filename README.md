@@ -1,6 +1,7 @@
 CTF 
 
 cat /etc/passwd | cut -d ":" -f 1 PrivEsc
+curl https://static-labs.tryhackme.cloud/sites/favicon/images/favicon.ico | md5sum favicon framwork md5 format
 
 https://www.quipqiup.com/
 https://mothereff.in/bacon
